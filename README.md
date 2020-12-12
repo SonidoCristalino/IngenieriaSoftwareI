@@ -1,5 +1,5 @@
 # IngenieriaSoftware
-Ingeniería de Software I - UNAJ 2C 2020
+Ingeniería de Software I - UNAJ 2do Cuatrimestre 2020
 
 ---
 
